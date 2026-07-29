@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TICK-401",
+  "order_id": "ORD-2026-8801",
+  "customer_id": "CUST-101",
+  "date_created": "2026-03-09",
+  "department": "Customer Support",
+  "issue_type": "Hardware Defect",
+  "subject": "Laptop shut down spontaneously and won't turn back on",
+  "description": "My Apex Pro Laptop started smoking near the charging port and shut down. Requesting immediate full refund.",
+  "status": "Resolved",
+  "flagged_component": "NovaCart Power Module Model-V2",
+  "resolution": "Full refund issued via RF-9901."
+}

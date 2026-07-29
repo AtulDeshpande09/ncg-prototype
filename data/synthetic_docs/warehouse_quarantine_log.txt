@@ -1,0 +1,8 @@
+# Internal Warehouse Incident Log
+**Warehouse:** Central Fulfillment Center (Hub East)
+**Date:** March 3, 2026
+**Logged By:** Marcus Vance (Operations Lead)
+**Department:** Operations
+
+**Incident Summary:**
+Quarantined 450 units of NovaCart Power Module Model-V2 (Lot #VT-2026-02B) following QC Notice QC-2026-Q1-08. Replacement stock requested from secondary supplier (PowerGrid Systems), but lead time is estimated at 3 weeks. Expected bottleneck in Apex Pro Laptop assembly throughout March 2026.

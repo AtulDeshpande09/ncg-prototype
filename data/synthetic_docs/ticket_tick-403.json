@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TICK-403",
+  "order_id": null,
+  "customer_id": "CUST-104",
+  "date_created": "2026-03-12",
+  "department": "Customer Support",
+  "issue_type": "Hardware Defect",
+  "subject": "Apex Pro Laptop total power failure",
+  "description": "Unit completely dead after 3 days of use.",
+  "status": "In Progress",
+  "flagged_component": "NovaCart Power Module Model-V2",
+  "resolution": "Escalated to Quality Engineering."
+}

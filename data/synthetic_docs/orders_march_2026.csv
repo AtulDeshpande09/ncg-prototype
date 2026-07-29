@@ -1,0 +1,7 @@
+order_id,customer_id,product_name,order_date,amount_usd,status,department
+ORD-2026-8801,CUST-101,Apex Pro Laptop 15,2026-03-01,1299.00,Refunded,Sales
+ORD-2026-8802,CUST-102,Apex Pro Laptop 15,2026-03-02,1299.00,Refunded,Sales
+ORD-2026-8803,CUST-103,ErgoDesk Chair,2026-03-02,349.50,Delivered,Sales
+ORD-2026-8804,CUST-104,Apex Pro Laptop 15,2026-03-05,1299.00,Refunded,Sales
+ORD-2026-8805,CUST-105,UltraWide Monitor 34,2026-03-06,699.00,Delivered,Sales
+ORD-2026-8806,CUST-106,Apex Pro Laptop 15,2026-03-08,1299.00,Completed,Sales

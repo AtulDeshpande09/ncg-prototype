@@ -1,0 +1,14 @@
+{
+  "ticket_id": "TICK-402",
+  "order_id": "ORD-2026-8802",
+  "customer_id": "CUST-102",
+  "date_created": "2026-03-10",
+  "department": "Customer Support",
+  "issue_type": "Hardware Defect",
+  "subject": "Power supply overheating on Apex Pro",
+  "description": "Laptop gets dangerously hot. Demanding refund and store voucher.",
+  "status": "Resolved",
+  "flagged_component": "NovaCart Power Module Model-V2",
+  "compensation_issued_usd": 1350.0,
+  "resolution": "Refunded $1299 plus $51 goodwill store credit."
+}

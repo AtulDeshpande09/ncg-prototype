@@ -1,0 +1,4 @@
+shipment_id,supplier_id,carrier,origin_warehouse,dispatch_date,status,notes,department
+SH-771,SUP-VOLT-88,GlobalExpress,Shenzhen,2026-02-05,Delivered,Batch Lot #VT-2026-02B,Logistics
+SH-772,SUP-VOLT-88,GlobalExpress,Shenzhen,2026-02-20,Delayed,Held at customs due to missing compliance declaration,Logistics
+SH-801,SUP-LOGI-12,SwiftFreight,Frankfurt,2026-03-01,Delivered,ErgoDesk frames,Logistics

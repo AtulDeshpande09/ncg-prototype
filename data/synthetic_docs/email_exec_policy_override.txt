@@ -1,0 +1,19 @@
+From: executive-office@c1.com
+To: support-all@c1.com, finance-leads@c1.com
+Date: March 8, 2026
+Subject: URGENT: Extended Refund Window for Apex Pro Laptop Hardware Issues
+Department: Executive / Customer Support
+
+Team,
+
+Due to ongoing hardware issues identified with power components in the Apex Pro Laptop 15 line, we are temporarily expanding our standard refund window.
+
+Effective immediately:
+- Any customer experiencing power failure or overheating on the Apex Pro Laptop is eligible for a FULL cash refund within 45 days of purchase (overriding the legacy 14-day policy POL-CUST-2024-V1).
+- Support agents are authorized to add up to $75 in store credit for high-friction customer disputes.
+
+Please override standard auto-rejections for these cases.
+
+Best,
+Elena Rostova
+VP of Customer Experience
