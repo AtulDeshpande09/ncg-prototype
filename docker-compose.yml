@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  backend:
+    build: .
+    container_name: novacart_ai_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - API_ADMIN_USER=${API_ADMIN_USER:-admin}
+      - API_ADMIN_PASSWORD=${API_ADMIN_PASSWORD:-nova1234}
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  frontend:
+    build: .
+    container_name: c1_ai_frontend
+    command: streamlit run app_ui.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    depends_on:
+      - backend
